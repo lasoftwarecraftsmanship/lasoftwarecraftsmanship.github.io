@@ -32,4 +32,4 @@ permalink: /reading-list/
 
 * <code>//TODO: add more!!</code>
 
-See something missing? Let us know at <i class="fa fa-github"></i> [lasoftwarecraftsmanship.github.io](https://github.com/lasoftwarecraftsmanship/lasoftwarecraftsmanship.github.io)
+Something missing? Let us know at <i class="fa fa-github"></i> [lasoftwarecraftsmanship.github.io](https://github.com/lasoftwarecraftsmanship/lasoftwarecraftsmanship.github.io)
