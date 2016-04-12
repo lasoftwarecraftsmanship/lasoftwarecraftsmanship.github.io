@@ -30,7 +30,6 @@ permalink: /reading-list/
 
 * [wtf, daily](http://thedailywtf.com)
 
-* <code>//TODO: add more!!</code><
+* <code>//TODO: add more!!</code>
 
-You can find the source code for this site at
-{% include icon-github.html username="mrice" %}/[lasc](https://github.com/mrice/lasc)
+See something missing? Let us know at <i class="fa fa-github"></i> [lasoftwarecraftsmanship.github.io](https://github.com/lasoftwarecraftsmanship/lasoftwarecraftsmanship.github.io)
