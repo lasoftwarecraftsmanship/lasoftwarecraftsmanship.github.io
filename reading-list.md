@@ -10,9 +10,11 @@ permalink: /reading-list/
 
 * [A List Apart](http://alistapart.com/blog), still interesting after all these years
 
-* Andrew Hunt: [Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)*
+* Andrew Hunt: [Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
 * [Code Climate blog](http://blog.codeclimate.com/)
+
+* *[Code Complete: A Practical Handbook of Software Construction, Second Edition](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)* - Steve McConnell was ahead of its time, even back in the first revision
 
 * [Codurance blog](http://codurance.com/blog/)
 
@@ -30,6 +32,4 @@ permalink: /reading-list/
 
 * [wtf, daily](http://thedailywtf.com)
 
-* <code>//TODO: add more!!</code>
-
-Something missing? Let us know at <i class="fa fa-github"></i> [lasoftwarecraftsmanship.github.io](https://github.com/lasoftwarecraftsmanship/lasoftwarecraftsmanship.github.io)
+**PLEASE CONTRIBUTE** Send us a PR at <i class="fa fa-github"></i> [lasoftwarecraftsmanship.github.io](https://github.com/lasoftwarecraftsmanship/lasoftwarecraftsmanship.github.io)

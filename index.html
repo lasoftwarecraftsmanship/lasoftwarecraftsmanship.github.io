@@ -6,37 +6,39 @@ layout: default
 
   <!--TODO there's got to be a way to incporate this as markdown instead of
   all this raw html -->
-  <p>
-    <i class="fa fa-calendar"></i> Join us at <a href="http://www.meetup.com/LA-Software-Craftsmanship/">meetup.com/LA-Software-Craftsmanship/</a>
-  </p>
 
-  <h1 class="page-heading">Community notes</h1>
+  <h2><i class="fa fa-calendar-check-o" aria-hidden="true"></i></i> Next Event</h2>
   <p>
     <strong>Community Code Review</strong> - the super tiny compiler (js), Tuesday, April 26 at 7:00 p.m. Los Angeles time. Let's get together virtually and do another COMMUNITY CODE REVIEW. Turns out that compilers don't need to be scary. Let's hangout and talk about the code, the craftsmanship, and what else is going on with you all. <a href="http://www.meetup.com/LA-Software-Craftsmanship/events/230050924/">RSVP on Meetup</a>
   </p>
   <p>
+    Join us at <a href="http://www.meetup.com/LA-Software-Craftsmanship/">meetup.com/LA-Software-Craftsmanship/</a> <i class="fa fa-calendar"></i>
+  </p>
+
+  <h2>Welcome to the Community, Let's Get Started <i class="fa fa-hand-spock-o" aria-hidden="true"></i></h2>
+  <p>
     We use <a href="http://softwarecraftsmanship.slack.com">Slack</a>, <a href="https://trello.com/b/RbCZ6Ogd/community-board-la-software-craftsmanship">Trello</a>, <a href="https://github.com/lasoftwarecraftsmanship">Github</a>, and more to communicate during our sessions and community code reviews. To get access to all these services, fill out this form: <a href="http://1drv.ms/1PjFbKN">http://1drv.ms/1PjFbKN</a>. If you just want access to slack (we're #los-angeles), get an invite <a href='http://slack.softwarecraftsmanship.org'>here</a>.
   </p>
-  <p>
-    <i class="fa fa-video-camera"></i> Software Craftsmanship North America was here in Los Angeles a few months ago (November 6, 2015). Watch for some recordings on 8th Light's Vimeo page here: <a href="https://vimeo.com/eighthlight">https://vimeo.com/eighthlight</a>
-  </p>
 
   <p>
-    <i class="fa fa-check-square-o"></i> Help us with our <a href="./clean-code-checklist/">code review checklist</a> based on Uncle Bob Martin's <em>Clean Code</em>.
+    <i class="fa fa-check-square-o"></i> <strong>HELP WANTED</strong> Help us with our <a href="./clean-code-checklist/">code review checklist</a> based on Uncle Bob Martin's <em>Clean Code</em>.
   </p>
 
-  <!-- commenting because I eventually want to get back to this and I don't want to re-figure out how it works
+  <p>&nbsp;</p>
+
+  <hr>
+  <h2><i class="fa fa-calendar"></i> Community Updates</h2>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
+        <p>{{ post.excerpt }}</p>
       </li>
     {% endfor %}
   </ul>
-  -->
 
 </div>
