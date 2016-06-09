@@ -6,7 +6,7 @@ permalink: /clean-code-checklist/
 
 Naming things
 ---------
-{% include checkmark.html %} **Name reveals intent** - does the name of the variable, function, or class tell you why it exists, what it does, and how it's used?
+{% include checkmark.html %} **Name reveals intent** - does the name of the variable, function, or class tell you why it exists, what it does, and how it's used? In Uncle Bob's formulation, the name should "reveal intent."
 
 {% include checkmark.html %} **Avoid mental mapping** - generally write a name that matches what it's supposed to do, and avoid single digit variable names.
 
